@@ -1,14 +1,14 @@
-if SHIELD_NODE_LEFT
+if SHIELD_NOVA_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "Node"
+    default "Nova"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
 
 endif
 
-if SHIELD_NODE_LEFT || SHIELD_NODE_RIGHT
+if SHIELD_NOVA_LEFT || SHIELD_NOVA_RIGHT
 
 config ZMK_SPLIT
     default y

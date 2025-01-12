@@ -19,8 +19,8 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: node_left
+    shield: nova_left
   - board: nice_nano_v2
-    shield: node_right
+    shield: nova_right
   - board: nice_nano_v2
     shield: settings_reset

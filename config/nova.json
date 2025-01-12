@@ -1,6 +1,6 @@
 {
-  "id": "node",
-  "name": "node",
+  "id": "nova",
+  "name": "nova",
   "layouts": {
     "default_layout": {
       "name": "default_layout",
